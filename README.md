@@ -1,3 +1,5 @@
+project created with Scaffold and Hardhat, I'm working in personalize this proyect to emulate a new cryptotoken to mine and receive tokens, this is the documentation of Scaffold:
+
 # 🏗 Scaffold-ETH 2
 
 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
